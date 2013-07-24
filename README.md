@@ -2,7 +2,7 @@
 
 A HTTP server for faking responses in tests. Very dumb.
 
-    go get github.com/jagregory/fakehttp.git
+    go get github.com/jagregory/fakehttp
 
 ## Usage:
 
